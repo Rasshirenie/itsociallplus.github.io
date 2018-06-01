@@ -11,9 +11,10 @@ a {
 }
 
 nav .menu {
-  margin-top: 69px;
+  margin-top: 500px;
   text-align: center;
-  margin-left: 54%;
+  margin-left: 740px;
+  right:5px;
 }
 
 nav .menu ul {

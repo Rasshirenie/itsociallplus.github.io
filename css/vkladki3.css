@@ -7,8 +7,8 @@
     padding: 50px;
     padding-bottom: 80px;
     width: 50%;
-    height: 270px;
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    height: 400px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.25), 0 5px 5px rgba(0, 0, 0, 0.22);
     border-radius: 5px;
     min-width: 240px;
     z-index: 100;
